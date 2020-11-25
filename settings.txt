@@ -1,0 +1,4 @@
+token my_token 
+group_id 172712180
+audio_format .mp3
+path C:\\Программирование\\Python\\Музыка ВК\\Музыка
